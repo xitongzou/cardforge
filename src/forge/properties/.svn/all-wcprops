@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10433/src/src/forge/properties
+END
+Preferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10038/src/src/forge/properties/Preferences.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10433/src/src/forge/properties/package-info.java
+END
+ForgePreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10402/src/src/forge/properties/ForgePreferences.java
+END
+SavePreferencesListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10038/src/src/forge/properties/SavePreferencesListener.java
+END
+NewConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10408/src/src/forge/properties/NewConstants.java
+END
+ForgeProps.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10038/src/src/forge/properties/ForgeProps.java
+END

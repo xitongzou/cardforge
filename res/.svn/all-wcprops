@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/10904/src/res
+END
+main.properties
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10300/src/res/main.properties
+END
+card-pictures-token.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8502/src/res/card-pictures-token.txt
+END
+reprintSetInfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10367/src/res/reprintSetInfo.py
+END
+setInfoScript.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10469/src/res/setInfoScript.py
+END
+booster-decks
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/src/res/booster-decks
+END
+AllTokens.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4793/src/res/AllTokens.txt
+END
+PerSetTracking.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10239/src/res/PerSetTracking.py
+END
+mtg-data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10502/src/res/mtg-data.txt
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10606/src/src/forge/gui
+END
+ForgeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10151/src/src/forge/gui/ForgeAction.java
+END
+MultiLineLabelUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10305/src/src/forge/gui/MultiLineLabelUI.java
+END
+MultiLineLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10038/src/src/forge/gui/MultiLineLabel.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10433/src/src/forge/gui/package-info.java
+END
+GuiUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10560/src/src/forge/gui/GuiUtils.java
+END
+ListChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10171/src/src/forge/gui/ListChooser.java
+END
+MultiPhaseProgressMonitorWithETA.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10526/src/src/forge/gui/MultiPhaseProgressMonitorWithETA.java
+END

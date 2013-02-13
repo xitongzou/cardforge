@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10570/src/src/forge/deck/generate
+END
+GenerateConstructedDeck.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10570/src/src/forge/deck/generate/GenerateConstructedDeck.java
+END
+Generate2ColorDeck.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10570/src/src/forge/deck/generate/Generate2ColorDeck.java
+END
+Generate3ColorDeck.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10570/src/src/forge/deck/generate/Generate3ColorDeck.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10433/src/src/forge/deck/generate/package-info.java
+END
+GenerateThemeDeck.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10038/src/src/forge/deck/generate/GenerateThemeDeck.java
+END
+GenerateConstructedMultiColorDeck.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10570/src/src/forge/deck/generate/GenerateConstructedMultiColorDeck.java
+END

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10627/src/src/forge/card/trigger
+END
+Trigger_TurnFaceUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_TurnFaceUp.java
+END
+Trigger_LandPlayed.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_LandPlayed.java
+END
+Trigger_Blocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Blocks.java
+END
+TriggerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10627/src/src/forge/card/trigger/TriggerHandler.java
+END
+Trigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger.java
+END
+Trigger_LifeLost.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_LifeLost.java
+END
+Trigger_Discarded.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Discarded.java
+END
+Trigger_AttackerBlocked.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_AttackerBlocked.java
+END
+Trigger_BecomesTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_BecomesTarget.java
+END
+Trigger_DamageDone.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_DamageDone.java
+END
+Trigger_AttackerUnblocked.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_AttackerUnblocked.java
+END
+Trigger_Unequip.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Unequip.java
+END
+Trigger_LifeGained.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_LifeGained.java
+END
+Trigger_Attacks.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Attacks.java
+END
+Trigger_Sacrificed.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Sacrificed.java
+END
+Trigger_Phase.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Phase.java
+END
+Trigger_Shuffled.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Shuffled.java
+END
+Trigger_Always.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Always.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10433/src/src/forge/card/trigger/package-info.java
+END
+Trigger_CounterAdded.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_CounterAdded.java
+END
+Trigger_Cycled.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Cycled.java
+END
+Trigger_Clashed.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Clashed.java
+END
+Trigger_ChangesZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_ChangesZone.java
+END
+Trigger_Championed.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Championed.java
+END
+Trigger_Taps.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Taps.java
+END
+Trigger_SpellAbilityCast.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_SpellAbilityCast.java
+END
+Trigger_Untaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Untaps.java
+END
+Trigger_Drawn.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_Drawn.java
+END
+Trigger_TapsForMana.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10627/src/src/forge/card/trigger/Trigger_TapsForMana.java
+END

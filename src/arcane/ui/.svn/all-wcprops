@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10835/src/src/arcane/ui
+END
+CardArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10038/src/src/arcane/ui/CardArea.java
+END
+HandArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10038/src/src/arcane/ui/HandArea.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10835/src/src/arcane/ui/package-info.java
+END
+CardPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10402/src/src/arcane/ui/CardPanel.java
+END
+ViewPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10038/src/src/arcane/ui/ViewPanel.java
+END
+CardPanelContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10038/src/src/arcane/ui/CardPanelContainer.java
+END
+PlayArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10038/src/src/arcane/ui/PlayArea.java
+END
+ScaledImagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10151/src/src/arcane/ui/ScaledImagePanel.java
+END

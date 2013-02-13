@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 54
+cardsScript.log
+*.patch
+*.log
+
+PerSetTracking Results
+
+END

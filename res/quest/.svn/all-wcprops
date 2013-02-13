@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/10901/src/res/quest
+END
+easy.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10731/src/res/quest/easy.txt
+END
+price.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10192/src/res/quest/price.txt
+END
+quest.preferences
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9431/src/res/quest/quest.preferences
+END
+quests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1491/src/res/quest/quests.txt
+END
+veryhard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10316/src/res/quest/veryhard.txt
+END
+all-prices.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10192/src/res/quest/all-prices.txt
+END
+quest.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8202/src/res/quest/quest.properties
+END
+hard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10901/src/res/quest/hard.txt
+END
+medium.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10901/src/res/quest/medium.txt
+END

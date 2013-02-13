@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10534/src/src/forge/card/spellability
+END
+SpellAbility_Requirements.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10075/src/src/forge/card/spellability/SpellAbility_Requirements.java
+END
+SpellAbility_Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10298/src/src/forge/card/spellability/SpellAbility_Condition.java
+END
+Ability_Static.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10038/src/src/forge/card/spellability/Ability_Static.java
+END
+Cost_Payment.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10298/src/src/forge/card/spellability/Cost_Payment.java
+END
+Ability_Sub.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10038/src/src/forge/card/spellability/Ability_Sub.java
+END
+SpellAbility_StackInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10533/src/src/forge/card/spellability/SpellAbility_StackInstance.java
+END
+Cost.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10038/src/src/forge/card/spellability/Cost.java
+END
+Spell.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10038/src/src/forge/card/spellability/Spell.java
+END
+Ability_Activated.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10038/src/src/forge/card/spellability/Ability_Activated.java
+END
+SpellAbility_Restriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10038/src/src/forge/card/spellability/SpellAbility_Restriction.java
+END
+Target_Choices.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10038/src/src/forge/card/spellability/Target_Choices.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10433/src/src/forge/card/spellability/package-info.java
+END
+SpellAbility_Variables.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10309/src/src/forge/card/spellability/SpellAbility_Variables.java
+END
+Target.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10335/src/src/forge/card/spellability/Target.java
+END
+Spell_Permanent.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10329/src/src/forge/card/spellability/Spell_Permanent.java
+END
+Ability_Triggered.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10038/src/src/forge/card/spellability/Ability_Triggered.java
+END
+Ability_Mana.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10038/src/src/forge/card/spellability/Ability_Mana.java
+END
+SpellAbilityList.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10038/src/src/forge/card/spellability/SpellAbilityList.java
+END
+Target_Selection.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10038/src/src/forge/card/spellability/Target_Selection.java
+END
+Ability.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10038/src/src/forge/card/spellability/Ability.java
+END
+SpellAbility.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10534/src/src/forge/card/spellability/SpellAbility.java
+END

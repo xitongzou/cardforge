@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10433/src/src/forge/card/mana
+END
+Mana_PartColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10038/src/src/forge/card/mana/Mana_PartColor.java
+END
+Mana_Part.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10038/src/src/forge/card/mana/Mana_Part.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10433/src/src/forge/card/mana/package-info.java
+END
+ManaCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10333/src/src/forge/card/mana/ManaCost.java
+END
+ManaPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10305/src/src/forge/card/mana/ManaPool.java
+END
+Mana_PartColorless.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10038/src/src/forge/card/mana/Mana_PartColorless.java
+END
+Mana_PartSnow.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10038/src/src/forge/card/mana/Mana_PartSnow.java
+END
+Mana_PartPhyrexian.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10151/src/src/forge/card/mana/Mana_PartPhyrexian.java
+END
+Mana.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10038/src/src/forge/card/mana/Mana.java
+END
+Mana_PartSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10038/src/src/forge/card/mana/Mana_PartSplit.java
+END

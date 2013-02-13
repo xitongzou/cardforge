@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10835/src/src/arcane/ui/util
+END
+Animation.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10038/src/src/arcane/ui/util/Animation.java
+END
+ImageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10038/src/src/arcane/ui/util/ImageUtil.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10835/src/src/arcane/ui/util/package-info.java
+END
+ManaSymbols.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10402/src/src/arcane/ui/util/ManaSymbols.java
+END
+CardPanelMouseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10038/src/src/arcane/ui/util/CardPanelMouseListener.java
+END
+GlowText.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10038/src/src/arcane/ui/util/GlowText.java
+END
+UI.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10038/src/src/arcane/ui/util/UI.java
+END

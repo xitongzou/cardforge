@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10859/src/src/forge/quest/gui
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10835/src/src/forge/quest/gui/package-info.java
+END
+QuestAbstractPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10038/src/src/forge/quest/gui/QuestAbstractPanel.java
+END
+QuestFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10038/src/src/forge/quest/gui/QuestFrame.java
+END

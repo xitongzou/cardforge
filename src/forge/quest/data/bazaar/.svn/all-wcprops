@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10433/src/src/forge/quest/data/bazaar
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10433/src/src/forge/quest/data/bazaar/package-info.java
+END
+QuestStallDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10038/src/src/forge/quest/data/bazaar/QuestStallDefinition.java
+END
+QuestStallPurchasable.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10038/src/src/forge/quest/data/bazaar/QuestStallPurchasable.java
+END
+QuestStallManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10038/src/src/forge/quest/data/bazaar/QuestStallManager.java
+END

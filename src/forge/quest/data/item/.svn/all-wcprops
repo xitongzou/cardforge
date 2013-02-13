@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10433/src/src/forge/quest/data/item
+END
+QuestInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10038/src/src/forge/quest/data/item/QuestInventory.java
+END
+QuestItemSleight.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10038/src/src/forge/quest/data/item/QuestItemSleight.java
+END
+QuestItemLuckyCoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10038/src/src/forge/quest/data/item/QuestItemLuckyCoin.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10433/src/src/forge/quest/data/item/package-info.java
+END
+QuestItemAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10038/src/src/forge/quest/data/item/QuestItemAbstract.java
+END
+QuestItemZeppelin.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10038/src/src/forge/quest/data/item/QuestItemZeppelin.java
+END
+QuestItemEstates.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10038/src/src/forge/quest/data/item/QuestItemEstates.java
+END
+QuestItemElixir.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10038/src/src/forge/quest/data/item/QuestItemElixir.java
+END
+QuestItemMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10038/src/src/forge/quest/data/item/QuestItemMap.java
+END

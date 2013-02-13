@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10895/src/src/forge/card/cardFactory
+END
+CardFactory_Sorceries.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10828/src/src/forge/card/cardFactory/CardFactory_Sorceries.java
+END
+CardFactoryUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10891/src/src/forge/card/cardFactory/CardFactoryUtil.java
+END
+CardFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10843/src/src/forge/card/cardFactory/CardFactory.java
+END
+CardFactory_Lands.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10895/src/src/forge/card/cardFactory/CardFactory_Lands.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10433/src/src/forge/card/cardFactory/package-info.java
+END
+CardFactory_Instants.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10325/src/src/forge/card/cardFactory/CardFactory_Instants.java
+END
+CardFactory_Equipment.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10857/src/src/forge/card/cardFactory/CardFactory_Equipment.java
+END
+CardFactory_Planeswalkers.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10305/src/src/forge/card/cardFactory/CardFactory_Planeswalkers.java
+END
+CardFactory_Auras.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10827/src/src/forge/card/cardFactory/CardFactory_Auras.java
+END
+CardFactory_Creatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10847/src/src/forge/card/cardFactory/CardFactory_Creatures.java
+END

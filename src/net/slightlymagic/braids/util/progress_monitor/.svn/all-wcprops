@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10835/src/src/net/slightlymagic/braids/util/progress_monitor
+END
+StderrProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10195/src/src/net/slightlymagic/braids/util/progress_monitor/StderrProgressMonitor.java
+END
+BraidsProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10526/src/src/net/slightlymagic/braids/util/progress_monitor/BraidsProgressMonitor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10835/src/src/net/slightlymagic/braids/util/progress_monitor/package-info.java
+END
+BaseProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10526/src/src/net/slightlymagic/braids/util/progress_monitor/BaseProgressMonitor.java
+END

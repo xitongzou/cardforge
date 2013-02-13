@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10739/src/test/java/forge
+END
+PanelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10171/src/test/java/forge/PanelTest.java
+END
+PhaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10657/src/test/java/forge/PhaseTest.java
+END
+GuiBoosterDraftTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10171/src/test/java/forge/GuiBoosterDraftTest.java
+END
+RunTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10171/src/test/java/forge/RunTest.java
+END
+GuiDownloadSetPicturesLQTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10171/src/test/java/forge/GuiDownloadSetPicturesLQTest.java
+END
+ReadCardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10657/src/test/java/forge/ReadCardTest.java
+END
+MoveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10657/src/test/java/forge/MoveTest.java
+END
+GameActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10657/src/test/java/forge/GameActionTest.java
+END
+Card_ColorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10171/src/test/java/forge/Card_ColorTest.java
+END
+ReadBoosterPackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10657/src/test/java/forge/ReadBoosterPackTest.java
+END
+BoosterDraftAITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10657/src/test/java/forge/BoosterDraftAITest.java
+END
+GuiMultipleBlockers4Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10171/src/test/java/forge/GuiMultipleBlockers4Test.java
+END
+BoosterDraft_1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10171/src/test/java/forge/BoosterDraft_1Test.java
+END
+GuiQuestOptionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10171/src/test/java/forge/GuiQuestOptionsTest.java
+END
+GuiMigrateLocalMWSSetPicturesHQTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10171/src/test/java/forge/GuiMigrateLocalMWSSetPicturesHQTest.java
+END
+GuiWinLoseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10657/src/test/java/forge/GuiWinLoseTest.java
+END
+ReadQuestAssignmentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10657/src/test/java/forge/ReadQuestAssignmentTest.java
+END
+GuiProgressBarWindowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10171/src/test/java/forge/GuiProgressBarWindowTest.java
+END
+GuiDownloadPicturesLQTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10171/src/test/java/forge/GuiDownloadPicturesLQTest.java
+END
+BoosterDraftTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10657/src/test/java/forge/BoosterDraftTest.java
+END

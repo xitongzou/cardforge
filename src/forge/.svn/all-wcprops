@@ -1,0 +1,671 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/10905/src/src/forge
+END
+ZCTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10038/src/src/forge/ZCTrigger.java
+END
+Gui_Quest_DeckEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10560/src/src/forge/Gui_Quest_DeckEditor.java
+END
+Gui_DownloadSetPictures_LQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10522/src/src/forge/Gui_DownloadSetPictures_LQ.java
+END
+CardListUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10038/src/src/forge/CardListUtil.java
+END
+ImagePreviewPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10038/src/src/forge/ImagePreviewPanel.java
+END
+HandSizeOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10038/src/src/forge/HandSizeOp.java
+END
+Gui_DeckEditor_Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10754/src/src/forge/Gui_DeckEditor_Menu.java
+END
+Combat.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10683/src/src/forge/Combat.java
+END
+ComputerUtil_Attack2.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10038/src/src/forge/ComputerUtil_Attack2.java
+END
+ReadCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10525/src/src/forge/ReadCard.java
+END
+GameActionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10886/src/src/forge/GameActionUtil.java
+END
+FileFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10038/src/src/forge/FileFinder.java
+END
+BoosterDraftAI.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10626/src/src/forge/BoosterDraftAI.java
+END
+ButtonUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10038/src/src/forge/ButtonUtil.java
+END
+HttpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10186/src/src/forge/HttpUtil.java
+END
+BoosterDraft_1.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10201/src/src/forge/BoosterDraft_1.java
+END
+MyRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10402/src/src/forge/MyRandom.java
+END
+CCnt.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10151/src/src/forge/CCnt.java
+END
+ReadDraftBoosterPack.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10038/src/src/forge/ReadDraftBoosterPack.java
+END
+MenuItem_HowToPlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10038/src/src/forge/MenuItem_HowToPlay.java
+END
+Quest_Assignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10038/src/src/forge/Quest_Assignment.java
+END
+ReadPriceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10038/src/src/forge/ReadPriceList.java
+END
+CommandArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10038/src/src/forge/CommandArgs.java
+END
+ComputerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10704/src/src/forge/ComputerUtil.java
+END
+DefaultPlayerZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10305/src/src/forge/DefaultPlayerZone.java
+END
+CopyFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10433/src/src/forge/CopyFiles.java
+END
+PlayerZone_ComesIntoPlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10038/src/src/forge/PlayerZone_ComesIntoPlay.java
+END
+PhaseUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10650/src/src/forge/PhaseUtil.java
+END
+UndoCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10038/src/src/forge/UndoCommand.java
+END
+SetInfoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10038/src/src/forge/SetInfoUtil.java
+END
+CardList.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10570/src/src/forge/CardList.java
+END
+ComputerAI_General.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10704/src/src/forge/ComputerAI_General.java
+END
+ImageCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10038/src/src/forge/ImageCache.java
+END
+GameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10897/src/src/forge/GameAction.java
+END
+TableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10038/src/src/forge/TableModel.java
+END
+CardListFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10038/src/src/forge/CardListFilter.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10038/src/src/forge/Command.java
+END
+CommandReturn.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10038/src/src/forge/CommandReturn.java
+END
+Gui_MigrateLocalMWSSetPictures_HQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10522/src/src/forge/Gui_MigrateLocalMWSSetPictures_HQ.java
+END
+Gui_QuestOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10513/src/src/forge/Gui_QuestOptions.java
+END
+Gui_DownloadPrices.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10189/src/src/forge/Gui_DownloadPrices.java
+END
+ReadQuest_Assignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10171/src/src/forge/ReadQuest_Assignment.java
+END
+Gui_Quest_DeckEditor_Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10566/src/src/forge/Gui_Quest_DeckEditor_Menu.java
+END
+StaticEffects.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10898/src/src/forge/StaticEffects.java
+END
+ComputerAI_Input.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10038/src/src/forge/ComputerAI_Input.java
+END
+ComputerUtil_Block2.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10038/src/src/forge/ComputerUtil_Block2.java
+END
+PlayerZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10038/src/src/forge/PlayerZone.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10402/src/src/forge/Constant.java
+END
+PlayerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10397/src/src/forge/PlayerUtil.java
+END
+MyObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10038/src/src/forge/MyObservable.java
+END
+Computer.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10038/src/src/forge/Computer.java
+END
+Phase.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10594/src/src/forge/Phase.java
+END
+AllZoneUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10445/src/src/forge/AllZoneUtil.java
+END
+ExternalPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10038/src/src/forge/ExternalPanel.java
+END
+Counters.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10527/src/src/forge/Counters.java
+END
+StaticEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10897/src/src/forge/StaticEffect.java
+END
+EndOfTurn.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10733/src/src/forge/EndOfTurn.java
+END
+GuiInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10038/src/src/forge/GuiInput.java
+END
+AIPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10846/src/src/forge/AIPlayer.java
+END
+MagicStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10533/src/src/forge/MagicStack.java
+END
+SetInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10038/src/src/forge/SetInfo.java
+END
+Gui_CardShop.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10560/src/src/forge/Gui_CardShop.java
+END
+CardUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10402/src/src/forge/CardUtil.java
+END
+GuiDisplayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10598/src/src/forge/GuiDisplayUtil.java
+END
+Gui_MultipleBlockers4.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10171/src/src/forge/Gui_MultipleBlockers4.java
+END
+NameChanger.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10560/src/src/forge/NameChanger.java
+END
+Card_PT.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10905/src/src/forge/Card_PT.java
+END
+CardContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10038/src/src/forge/CardContainer.java
+END
+GUI_DeckAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10483/src/src/forge/GUI_DeckAnalysis.java
+END
+Constant_StringHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10402/src/src/forge/Constant_StringHashMap.java
+END
+MyButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10038/src/src/forge/MyButton.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10433/src/src/forge/package-info.java
+END
+BoosterGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10754/src/src/forge/BoosterGenerator.java
+END
+Gui_NewGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10823/src/src/forge/Gui_NewGame.java
+END
+DeckColors.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10151/src/src/forge/DeckColors.java
+END
+GUI_Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10529/src/src/forge/GUI_Filter.java
+END
+Upkeep.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10446/src/src/forge/Upkeep.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10856/src/src/forge/Player.java
+END
+CardShopTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10038/src/src/forge/CardShopTableModel.java
+END
+Time.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10038/src/src/forge/Time.java
+END
+BoosterDraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10626/src/src/forge/BoosterDraft.java
+END
+IPlayerZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10038/src/src/forge/IPlayerZone.java
+END
+Base64Coder.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10038/src/src/forge/Base64Coder.java
+END
+Gui_BoosterDraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10754/src/src/forge/Gui_BoosterDraft.java
+END
+CombatUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10798/src/src/forge/CombatUtil.java
+END
+AllZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10897/src/src/forge/AllZone.java
+END
+Display.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10038/src/src/forge/Display.java
+END
+Move.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10038/src/src/forge/Move.java
+END
+Card_Color.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10151/src/src/forge/Card_Color.java
+END
+ReadBoosterPack.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10522/src/src/forge/ReadBoosterPack.java
+END
+Card.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10898/src/src/forge/Card.java
+END
+Constant_StringArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10187/src/src/forge/Constant_StringArrayList.java
+END
+GUI_Quest_Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10529/src/src/forge/GUI_Quest_Filter.java
+END
+CommandList.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10446/src/src/forge/CommandList.java
+END
+GUI_ImportPicture.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10472/src/src/forge/GUI_ImportPicture.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10038/src/src/forge/FileUtil.java
+END
+Color.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10038/src/src/forge/Color.java
+END
+CardFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10576/src/src/forge/CardFilter.java
+END
+SimpleCombat.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10038/src/src/forge/SimpleCombat.java
+END
+Gui_DeckEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10560/src/src/forge/Gui_DeckEditor.java
+END
+EndOfCombat.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10038/src/src/forge/EndOfCombat.java
+END
+Gui_WinLose.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10194/src/src/forge/Gui_WinLose.java
+END
+SealedDeck.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10038/src/src/forge/SealedDeck.java
+END
+Gui_ProgressBarWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10196/src/src/forge/Gui_ProgressBarWindow.java
+END
+GameInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10038/src/src/forge/GameInfo.java
+END
+HumanPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10846/src/src/forge/HumanPlayer.java
+END
+TableSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10038/src/src/forge/TableSorter.java
+END
+Gui_DownloadPictures_LQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10522/src/src/forge/Gui_DownloadPictures_LQ.java
+END
+CustomDraft.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10038/src/src/forge/CustomDraft.java
+END
+DeckDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10038/src/src/forge/DeckDisplay.java
+END
+GuiDisplay4.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10844/src/src/forge/GuiDisplay4.java
+END

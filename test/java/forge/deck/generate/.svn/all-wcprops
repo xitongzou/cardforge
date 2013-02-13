@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10657/src/test/java/forge/deck/generate
+END
+GenerateConstructedDeckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10171/src/test/java/forge/deck/generate/GenerateConstructedDeckTest.java
+END
+GenerateConstructedMultiColorDeckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10657/src/test/java/forge/deck/generate/GenerateConstructedMultiColorDeckTest.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10594/src/src/forge/gui/input
+END
+Input.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10038/src/src/forge/gui/input/Input.java
+END
+InputControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10038/src/src/forge/gui/input/InputControl.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10433/src/src/forge/gui/input/package-info.java
+END
+Input_Attack.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10594/src/src/forge/gui/input/Input_Attack.java
+END
+Input_Cleanup.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10038/src/src/forge/gui/input/Input_Cleanup.java
+END
+Input_PassPriority.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10038/src/src/forge/gui/input/Input_PassPriority.java
+END
+Input_Mulligan.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10038/src/src/forge/gui/input/Input_Mulligan.java
+END
+Input_Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10594/src/src/forge/gui/input/Input_Block.java
+END
+Input_PayManaCost_Ability.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10305/src/src/forge/gui/input/Input_PayManaCost_Ability.java
+END
+Input_PayManaCostUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10038/src/src/forge/gui/input/Input_PayManaCostUtil.java
+END
+Input_PayManaCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10055/src/src/forge/gui/input/Input_PayManaCost.java
+END

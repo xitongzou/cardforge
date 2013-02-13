@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10835/src/src/treeProperties
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10835/src/src/treeProperties/package-info.java
+END
+PropertyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10151/src/src/treeProperties/PropertyType.java
+END
+TreeProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10038/src/src/treeProperties/TreeProperties.java
+END
+PropertyElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10038/src/src/treeProperties/PropertyElement.java
+END

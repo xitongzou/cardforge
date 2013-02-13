@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/10406/src/res/gui
+END
+gui.properties
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10074/src/res/gui/gui.properties
+END
+display_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1651/src/res/gui/display_layout.xml
+END
+display_new_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10406/src/res/gui/display_new_layout.xml
+END

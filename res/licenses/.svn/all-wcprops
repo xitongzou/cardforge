@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10205/src/res/licenses
+END
+xstream-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6180/src/res/licenses/xstream-license.txt
+END
+java-yield-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10205/src/res/licenses/java-yield-license.txt
+END
+xpp3-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6180/src/res/licenses/xpp3-license.txt
+END
+log4j-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10205/src/res/licenses/log4j-license.txt
+END
+multiline-label-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6180/src/res/licenses/multiline-label-license.txt
+END

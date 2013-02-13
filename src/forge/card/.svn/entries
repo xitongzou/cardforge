@@ -1,0 +1,80 @@
+10
+
+dir
+10905
+http://cardforge.googlecode.com/svn/src/src/forge/card
+http://cardforge.googlecode.com/svn
+
+
+
+2011-07-20T13:51:53.090209Z
+10900
+deepsloth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d79705b8-2151-0410-8572-c3d52707f174
+
+cardFactory
+dir
+
+trigger
+dir
+
+package-info.java
+file
+
+
+
+
+2013-02-13T00:34:43.000000Z
+1a9a13aed3d6c4dc9b9ce6f179b74fcc
+2011-07-06T20:18:18.858685Z
+10433
+jendave.hudson@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43
+
+staticAbility
+dir
+
+abilityFactory
+dir
+
+mana
+dir
+
+spellability
+dir
+

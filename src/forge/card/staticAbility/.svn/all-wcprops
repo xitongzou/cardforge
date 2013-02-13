@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10900/src/src/forge/card/staticAbility
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10433/src/src/forge/card/staticAbility/package-info.java
+END
+StaticAbility.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10790/src/src/forge/card/staticAbility/StaticAbility.java
+END
+StaticAbility_Continuous.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10900/src/src/forge/card/staticAbility/StaticAbility_Continuous.java
+END

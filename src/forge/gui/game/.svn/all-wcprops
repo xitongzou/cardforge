@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10606/src/src/forge/gui/game
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10433/src/src/forge/gui/game/package-info.java
+END
+CardPicturePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10038/src/src/forge/gui/game/CardPicturePanel.java
+END
+CardPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10074/src/src/forge/gui/game/CardPanel.java
+END
+CardDetailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10606/src/src/forge/gui/game/CardDetailPanel.java
+END
