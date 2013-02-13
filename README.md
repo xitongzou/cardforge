@@ -18,3 +18,5 @@ Project Details
 =========
 Since the project is open source, I can divulge some of the implementation of the cards. The Card.java file is very big, and contains all the different abilities of each creature.
 
+-Tong Zou
+
